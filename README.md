@@ -13,7 +13,7 @@ I STAND for:
 
 Other interests: DevOps, Nanotechnology, AI
 
-I'm mostly writing Typescript, Sass, some Python, some Shell (or PowerShell if needed) and some HCL.
+I'm mostly writing Python, Typescript, Sass, some Shell (or PowerShell if needed) and some HCL.
 Oh and some HTML (its cool too).
 
 
