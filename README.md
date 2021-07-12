@@ -11,9 +11,9 @@ I STAND for:
             - Inclusion
             - Equality             
 
-Other interests: DevOps, Nanotechnology, AI
+My interests: DevOps, Nanotechnology, AI
 
-I'm mostly writing Python, Typescript, Sass, some Shell (or PowerShell if needed) and some HCL.
+I'm mostly writing Python, Typescript, Django, some Shell (or PowerShell if needed) and some HCL.
 Oh and some HTML (its cool too).
 
 
