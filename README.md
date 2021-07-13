@@ -4,19 +4,19 @@
 
 
 <!-- About -->
-I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-friendly design, architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
+I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-friendly designs, architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
 
 I STAND for: 
             - Diversity
             - Inclusion
             - Equality             
 
-My interests: DevOps, Nanotechnology, AI
+My interests: DevOps, Data analysis, Nanotechnology, AI.
 
-I'm mostly writing Python, Typescript, Django, some Shell (or PowerShell if needed) and some HCL.
+I'm mostly writing Python, Typescript, Django, JavaScript some Shell (or PowerShell if needed) and some HCL.
 Oh and some HTML (its cool too).
 
-
+ 
 ### 🔧 Technologies & Tools
 
   ---
