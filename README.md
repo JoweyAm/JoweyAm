@@ -15,16 +15,17 @@ I STAND for:
 
 My interests: DevOps,Data engineering Data analysis, Nanotechnology and AI.
 
-I'm mostly writing Python, Typescript, Django, JavaScript some Shell.
+I'm mostly writing Python, R, Typescript, Django, JavaScript some Shell.
 Oh and some HTML (its cool too).
 
 <img align="right" alt="GIF" src="https://github.com/JoweyAm/JoweyAm/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
-**Talking about Personal Stuffs:**
+**Talking about Me:**
 
 - 👨🏻‍💻 I’m currently working on cool stuff;
 - 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: ampuriajoe@gmail.com;
 
 
 
