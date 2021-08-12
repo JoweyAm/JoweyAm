@@ -11,12 +11,24 @@ I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-frie
 I STAND for: 
             - Equality
             - Diversity  
-            - Inclusion                                 
+            - Inclusion
+            
+                                              
             
 My interests: DevOps,Data engineering Data analysis, Nanotechnology and AI.
 
 I'm mostly writing Python, Typescript, Django, JavaScript some Shell.
 Oh and some HTML (its cool too).
+
+<img align="right" alt="GIF" src="https://github.com/JoweyAm/JoweyAm/blob/main/coding.gif?raw=true" width="408" height="318" />
+
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on cool stuff;
+- 💬 Ask me about anything, I am happy to help;
+
+</br>
 
  
 ### 🔧 Technologies & Tools
