@@ -9,12 +9,10 @@
 I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-friendly designs, architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
 
 I STAND for: 
-            - Equality
-            - Diversity  
+            - Diversity
             - Inclusion
-            
-                                              
-            
+            - Equality             
+
 My interests: DevOps,Data engineering Data analysis, Nanotechnology and AI.
 
 I'm mostly writing Python, Typescript, Django, JavaScript some Shell.
@@ -28,7 +26,7 @@ Oh and some HTML (its cool too).
 - 👨🏻‍💻 I’m currently working on cool stuff;
 - 💬 Ask me about anything, I am happy to help;
 
-</br>
+
 
  
 ### 🔧 Technologies & Tools
