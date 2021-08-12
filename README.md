@@ -10,8 +10,8 @@ I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-frie
 
 I STAND for: 
             - Equality
-            - Diversity              
-            - Inclusion         
+            - Diversity  
+            - Inclusion                                 
             
 My interests: DevOps,Data engineering Data analysis, Nanotechnology and AI.
 
