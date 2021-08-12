@@ -1,4 +1,6 @@
-### Hi there Ampuria Joe here 👋
+### Hi there, Ampuria Joe here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugambi-ampuria-525a31141/)
 
 ---
 
@@ -7,13 +9,13 @@
 I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-friendly designs, architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
 
 I STAND for: 
-            - Diversity
-            - Inclusion
-            - Equality             
+            - Equality
+            - Diversity              
+            - Inclusion         
+            
+My interests: DevOps,Data engineering Data analysis, Nanotechnology and AI.
 
-My interests: DevOps, Data analysis, Nanotechnology, AI.
-
-I'm mostly writing Python, Typescript, Django, JavaScript some Shell (or PowerShell if needed) and some HCL.
+I'm mostly writing Python, Typescript, Django, JavaScript some Shell.
 Oh and some HTML (its cool too).
 
  
